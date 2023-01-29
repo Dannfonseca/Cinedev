@@ -1,0 +1,80 @@
+{
+    "filial": [
+        {
+            "id": 1,
+            "Campo Grande": "West Shopping",
+            "Bangu": "Bangu Shopping",
+            "Guadalupe": "Jardim Guadalupe",
+            "Irajá": "Shopping Via Brasil"
+        }
+    ],
+    "filmes": [
+        {
+            "id": 1,
+            "Infiltrados na Klan": "Biografia e Policial",
+            "Malcon X": "Biografia, Drama e Histórico",
+            "Corra!": "Suspense e Terror",
+            "Us": "Horror, Suspense e Terror",
+            "Halloween - A Noite do Terror": "Terror",
+            "O Enigma de Outro Mundo": "Ficção Científica e Terror",
+            "Pânico": "Crime , Mistério , Suspense , Terror",
+            "A Hora do Pesadelo": "Mistério e Terror"
+        }
+    ],
+    "ingresso": [
+        {
+            "Segunda-feira": {
+                "id": 1,
+                "Meia-entrada": "R$ 9,99",
+                "Inteira": "R$ 19,99"
+            },
+            "Terça-feira": {
+                "id": 2,
+                "Meia-entrada": "R$ 9,99",
+                "Inteira": "R$ 19,99"
+            },
+            "Quarta-feira": {
+                "id": 3,
+                "Meia-entrada": "R$ 9,99",
+                "Inteira": "R$ 19,99"
+            },
+            "Quinta-feira": {
+                "id": 4,
+                "Meia-entrada": "R$ 9,99",
+                "Inteira": "R$ 19,99"
+            },
+            "Sexta-feira": {
+                "id": 5,
+                "Meia-entrada": "R$ 11,99",
+                "Inteira": "R$ 21,99"
+            },
+            "Sábado": {
+                "id": 6,
+                "Meia-entrada": "R$ 11,99",
+                "Inteira": "R$ 21,99"
+            },
+            "Domingo": {
+                "id": 7,
+                "Meia-entrada": "R$ 11,99",
+                "Inteira": "R$ 21,99"
+            },
+            "Feriados": {
+                "id": 8,
+                "Meia-entrada": "R$ 12,99",
+                "Inteira": "R$ 22,99"
+            }
+        }
+    ],
+    "sugestoes": [
+        {
+            "id": 1,
+            "Nome": "Dailla",
+            "Comentário": "Não gostei da paleta de cores do site"
+        },
+        {
+            "id": 2,
+            "Nome": "Gabriel",
+            "Comentário": "Acho que tá muito bom"
+        }
+    ]
+}
